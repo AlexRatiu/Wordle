@@ -12,7 +12,7 @@ body {
 
 .gameBoard {
   padding-left: 40%;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
 }
 
 .gameKeyboard{
@@ -38,10 +38,10 @@ td {
   background: #121213;
   border: 2px solid #3a3a3c;
   color: white;
-  font-size: 30px;
+  font-size: 32px;
   text-align: center;
-  width: 50px;
-  height: 50px;
+  width: 52px;
+  height: 52px;
 }
 
 
@@ -49,37 +49,37 @@ td {
   background: #818384;
   border: 3px solid #3a3a3c;
   color: white;
-  border-radius: 20%;
+  border-radius: 15%;
   font-size: 20px;
   font-weight: bold;
   margin-right: 3px;
   text-align: center;
-  width: 45px;
-  height: 45px;    
+  width: 43px;
+  height: 58px;    
 }
 
 .keyboardButtonCheck {
   background: #818384;
   border: 3px solid #3a3a3c;
   color: white;
-  border-radius: 20%;
+  border-radius: 15%;
   font-size: 15px;
   font-weight: bold;
   margin-right: 3px;
   text-align: center;
-  width: 75px;
-  height: 45px;    
+  width: 65px;
+  height: 58px;    
 }
 
 .keyboardButtonDelete {
   background: #818384;
   border: 3px solid #3a3a3c;
   color: white;
-  border-radius: 20%;
+  border-radius: 15%;
   font-size: 20px;
   font-weight: bold;
   margin-right: 3px;
   text-align: center;
-  width: 75px;
-  height: 45px;    
+  width: 65px;
+  height: 58px;    
 }
